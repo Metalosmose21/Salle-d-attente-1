@@ -1,11 +1,12 @@
 
 
-url_lien = https://walensky-shop.fr/collections/tableau-saint-valentin
+url_lien = https://walensky-shop.fr/collections/tableau-pour-salle-dattente
 ancre_lien = tableaux pour Salle d’attente 
 tags = Salle d’attente 
 collection_id = 646759612750
 
 
 BLOG_ID=115690897742
+
 
 
